@@ -1,12 +1,6 @@
 <h1 align="left">Olá 👋🏼! Eu sou Heloisa Sousa</h1>
 
-<h3 align="left">
-💻 Desenvolvedora Front-End em formação <br>
-🎓 Estudante da Escola do Futuro de Goiás Paulo Renato de Souza <br>
-📚 Técnico em Desenvolvimento Web <br>
-🚀 Projetos acadêmicos utilizando GitHub e ferramentas de versionamento <br>
-✨ Em constante aprendizado
-</h3>
+
 
 ---
 
