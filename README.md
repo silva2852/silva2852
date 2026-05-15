@@ -1,4 +1,4 @@
-# HELOISA
+# Olá! Me chamo Heloisa Sousa
 
 Desenvolvedora em formacao | Desenvolvimento Web e Cibersegurança | JavaScript & TypeScript  
 Criando projetos, estudando tecnologia e evoluindo um commit por vez.
@@ -7,10 +7,12 @@ Criando projetos, estudando tecnologia e evoluindo um commit por vez.
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=header"/>
 </p>
 
-### About
+### Sobre mim
 
-Ola! Sou a Heloisa, estudante de tecnologia e desenvolvimento web.  
+Estudante da Escola do Futuro Paulo Renato de Souza  
 Atualmente estou criando projetos com JavaScript, TypeScript, APIs e IA.
+desenvolvedor front end em formação técnico em desenvolvimento web 
+projetos acadêmicos utilizando JavaScript, Node.js
 
 ### Studying
 
