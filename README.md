@@ -23,7 +23,7 @@
 
 ## 🌸 Sobre mim
 
-- 🎓 Estudante da **Escola do Futuro de Goiás Paulo Renato de Souza**
+-  Estudante da **Escola do Futuro de Goiás Paulo Renato de Souza**
 - 💻 Desenvolvedora **Front-End** em formação
 - 📚 Técnica em **Desenvolvimento Web**
 - 🚀 Desenvolvendo projetos acadêmicos com **GitHub** e ferramentas de versionamento
