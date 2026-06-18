@@ -12,7 +12,7 @@ Criando projetos, estudando tecnologia e evoluindo um commit por vez.
 Estudante da Escola do Futuro Paulo Renato de Souza  
 Atualmente estou criando projetos com JavaScript, TypeScript, APIs e IA.
 desenvolvedor front end em formação técnico em desenvolvimento web 
-projetos acadêmicos utilizando JavaScript, Node.js
+projetos acadêmicos utilizando JavaScript, Node.js.
 
 ### Studying
 
